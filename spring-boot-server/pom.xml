@@ -9,8 +9,8 @@
 		<version>2.3.5.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bezkoder</groupId>
-	<artifactId>spring-boot-react-mysql</artifactId>
+	<groupId>com.bala</groupId>
+	<artifactId>spring-boot-h2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-react-mysql</name>
 	<description>How to Integrate React.js with Spring Boot</description>
